@@ -28,26 +28,13 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🐍 Snake Contribution Graph
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=enzofuchsb&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzofuchsb&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=enzofuchsb&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=enzofuchsb&theme=radical&no-frame=true&row=1&column=6" alt="trophy" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enzofuchsb/enzofuchsb/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enzofuchsb/enzofuchsb/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/enzofuchsb/enzofuchsb/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -67,13 +54,18 @@
 
 ---
 
-### 🐍 Snake Contribution Graph
+### 📊 Estatísticas do GitHub
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enzofuchsb/enzofuchsb/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enzofuchsb/enzofuchsb/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/enzofuchsb/enzofuchsb/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=enzofuchsb&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzofuchsb&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=enzofuchsb&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 

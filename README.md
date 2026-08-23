@@ -38,6 +38,14 @@
 
 ---
 
+### 🏆 Troféus
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=enzofuchsb&theme=radical&no-frame=true&row=1&column=6" alt="trophy" />
+</p>
+
+---
+
 ### 📈 Atividade Recente
 
 <p align="center">
@@ -57,15 +65,16 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=enzofuchsb&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-nine-dun-81.vercel.app/api?username=enzofuchsb&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzofuchsb&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-nine-dun-81.vercel.app/api/top-langs/?username=enzofuchsb&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=enzofuchsb&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 ---
 

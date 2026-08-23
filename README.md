@@ -16,6 +16,7 @@
 - 🌱 Estudando **JavaScript, HTML, CSS, Python e MySQL**
 - 💬 Pergunte-me sobre desenvolvimento web e banco de dados
 - 📫 Contate-me: **enzo.bento@sptech.school**
+- ⚡ Fun fact: sempre aberto a novos projetos e colaborações!
 
 ---
 
@@ -30,12 +31,14 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=enzofuchsb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzofuchsb&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=enzofuchsb&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
+</p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzofuchsb&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enzofuchsb&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=enzofuchsb&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---

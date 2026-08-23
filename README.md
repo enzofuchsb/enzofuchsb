@@ -43,6 +43,30 @@
 
 ---
 
+### 🏆 Troféus
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=enzofuchsb&theme=radical&no-frame=true&row=1&column=6" alt="trophy" />
+</p>
+
+---
+
+### 📈 Atividade Recente
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=enzofuchsb&theme=react-dark&hide_border=true" alt="activity graph" />
+</p>
+
+---
+
+### 💭 Frase do dia
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
+</p>
+
+---
+
 ### 🐍 Snake Contribution Graph
 
 <picture>

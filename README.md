@@ -23,7 +23,7 @@
 ### 🛠️ Tecnologias & Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,py,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,py,mysql,git,github,vscode,arduino" />
 </p>
 
 ---
@@ -59,7 +59,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=enzofuchsb&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-
 
 ---
 

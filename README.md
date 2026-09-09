@@ -17,6 +17,7 @@
 - 💬 Pergunte-me sobre desenvolvimento web e banco de dados
 - 📫 Contate-me: **enzo.bento@sptech.school**
 - ⚡ Fun fact: sempre aberto a novos projetos e colaborações!
+- 🌐 Acesse meu <a href="https://enzofuchs.vercel.app/">site</a>!
 
 ---
 
